@@ -43,7 +43,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```ts
 apt update && apt upgrade
 pkg install bash nodejs ffmpeg libwebp git mc yarn
-git clone https://github.com/zeeone-ofc/Haruka-Md.git
+git clone https://github.com/dilzpx/Haruka-Md
 cd Haruka-Md
 yarn
 rm -rf session.json
@@ -53,9 +53,9 @@ npm start
 ## Edit file
 `./config.json`
 ```{
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
+    "ownerNumber": ["6281380448281@s.whatsapp.net","622150996855@s.whatsapp.net"],
     "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
+    "instagram" : "https://instagram.com/dilzpx_",
     "botName": "Haruka-Mdོ ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
